@@ -1,2 +1,2 @@
 Simple To do list.
-Demo: https://vladislavminchuk.github.io/to-do-list.github.io/
+<a href="https://vladislavminchuk.github.io/to-do-list.github.io/"> Demo </a>
